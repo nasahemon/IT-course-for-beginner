@@ -1,3 +1,0 @@
-1. import from csv must match the username domain portion with the domain you have setup in the admin center.
-2. redirect vs forwarding in mail.
-3. remember to download the created user csv cause no one can the password.
